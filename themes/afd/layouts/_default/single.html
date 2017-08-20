@@ -1,0 +1,18 @@
+{{ partial "header" . }}
+    <header class="site-header">
+        <a href="/" class="site-header__home"><i class="fa fa-home"></i></a>
+        <span class="site-header__countdown">{{ .Site.Title }}</span>
+    </header>
+    <div class="container">
+        {{ .Scratch.Set "IsSingle" true }} {{ partial "update-item" . }} {{ if .NextInSection }}
+            <a href="{{ .NextInSection.Permalink }}" rel="next" class="skip skip--next" title="{{ .NextInSection.Title }}">
+                {{ .NextInSection.Title }}
+            </a>
+        {{ end }}
+        {{ if .PrevInSection }}
+            <a href="{{ .PrevInSection.Permalink }}" rel="prev" class="skip skip--prev" title="{{ .PrevInSection.Title }}">
+                {{ .PrevInSection.Title }}
+            </a>
+        {{ end }}
+    </div>
+{{ partial "footer.html" . }}

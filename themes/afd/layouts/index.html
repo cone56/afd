@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+  <section class="hero">
+    <div class="hero__content">
+      <p>
+        <span class="line1">We've set off from West Sussex to travel</span>
+        <span class="line2">10,000 miles in a completely unsuitable car.</span>
+        <span class="line3">We're raising money for Dementia UK and Cool Earth.</span>
+      </p>
+      <h1>Adventure for Dementia</h1>
+      <a href="#" class="btn js-follow">Follow our story</a>
+    </div>
+  </section>
+  <div class="container" id="updates">
+    {{ range .Pages.ByPublishDate }} {{ .Scratch.Set "IsSingle" false }} {{ partial "update-item" . }} {{ end }}
+  </div>
+{{ partial "footer" . }}

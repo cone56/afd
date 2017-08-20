@@ -1,0 +1,30 @@
+---
+title: "Day 1 - The rozzers and the guest appearance"
+date: 2015-07-20T12:15:00
+---
+
+Cast aside by Team OMJ and waking up to torrential downpour in Dunkirk, we set off to Brussels. Blasting down the French highways at our max speed of 43mph and suffering from Chinese water torture from the holes in the roof, we suddenly heard the ominous sound of police sirens (which were not ours). The rozzers’ Peugeot escorted us on to the hard shoulder to the nearest junction and told us that our 100% road legal lawnmower was actually not legal on the French highways. The fine was €1000 by credit card or €22 for cash. We attempted haggling which they were not happy about. Next we attempted to play the dumb tourist card and pretended were lost but to no avail. Reluctantly, we handed over the cash. The term on the receipt they gave us translates to ‘stupid car on motorway’ which made us chuckle.
+
+{{< img src="/images/made/assets/uploads/the-rossers-and-the-guest-appearance_1_980_558_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.jpg" alt="The rozzers and the guest appearance" w="980" h="558" >}}
+
+The boys in blue instructed us to take the back roads to our destination, Belgium, which we did for a bit. Ignoring their advice, we went back on the motorway to make up some time. However 5 minutes later we were kicked off again by different cops and had to pay the same fine. After paying more money into the popo’s Christmas fund we made it to Gent, Belgium.
+
+Getting evicted from motorways is costing us considerable amount of time and money and as a result we seriously needed to reassess our options and schedule. At this point we have already missed two checkpoints and it was increasingly probable that we would miss all other checkpoints in Europe. We are also getting concerned that we’d miss the the last staggering of the finish line party at the beginning of September.
+
+{{< img src="/images/made/assets/uploads/the-rossers-and-the-guest-appearance_2_980_543_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.jpg" alt="The rozzers and the guest appearance" w="980" h="543" >}}
+
+In Ghent we were welcomed by the locals who adored our loveable steed. We met two students who brewed us some tetley while we made some adjustments to our car underneath a bridge that the pigeons use as their defecation pit. We fixed our dangling off exhaust and tuned the carburettor as it was dangerously over-fuelling. The two students then let us charge up our electrical devices in their plush pad. They told us to stay as Gentse Feesten, a huge 10 day festival, was in full swing in the city. Apparently it had all the major artists there, including Picasso. We kindly refused as we needed to make time up and head towards Germany.
+
+{{< img src="/images/made/assets/uploads/the-rossers-and-the-guest-appearance_3_980_563_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.jpg" alt="The rozzers and the guest appearance" w="980" h="563" >}}
+
+We started driving out of the city and got ourselves a little lost. We had no detailed maps and found ourselves going deeper and deeper into the city centre so decided to ask a Flemish version of Noddy Holder for exit directions. Following his instructions, we followed a tram line down a narrow cobbled street leading to another cobbled opening. These cobbles were a good test for things to come in the desert. The road we were travelling down was clearly closed for the festival with no other vehicles or trams in sight. We did think that was suspicious.
+
+In hindsight we think Noddy deliberately lead us in the wrong direction because when we looked back in the rear view mirror we saw him pissing himself with laughter. We had no time to prepare ourselves for what was next to come. We were looking at Ghent’s version of Glastonbury going on 100 yards in front. We had gone too far to turn around and rapidly saw the situation getting worse and worse as we continued. Tens of people crowding the car turned into hundreds. We were swamped by festival goers keen to look at two fools driving a ridiculous motor. We had dug ourselves a hole that we couldn’t get out of. Feeling highly embarrassed, we wanted to leave as quickly as possible. We had one way out which was past the main stage and out the pedestrian exit. Luckily, the locals of Ghent seemed to enjoy the situation and moved aside for us to crawl past at 1mph. They probably thought we were one of the attractions. Many were filming us and we suspect we’re the subject of many YouTube videos with the title of ‘2 idiots drive stupid car through Gentse Feesten’
+
+{{< img src="/images/made/assets/uploads/the-rossers-and-the-guest-appearance_4_980_603_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.jpg" alt="The rozzers and the guest appearance" w="980" h="603" >}}
+
+Now global internet celebrities of Ghent, we finally got out of the city and headed towards the German border. On the motorway, we got low on fuel so decided to turn off at the next junction to find a fuel station. This junction took us into The Netherlands which turned out to be a bad idea. At around midnight, the Dutch ghost towns were derelict and the only station we found was closed. All of our cards were declined and were forced to wait until morning so we could pay in cash.
+
+{{< img src="/images/made/images/remote/https_maps.googleapis.com/maps/api/393bae7259ac0469e6f58cf822ef41f7/staticmap_980_459_int_s.png" alt="The rozzers and the guest appearance" w="980" h="459" >}}
+
+We had a quick look around for a campsite or somewhere to stay the night but we only found a hotel car park and just decided to park up there. Feeling exhausted, we were too lazy to put the tent up, so settled on sleeping in the car. This was another bad decision. It turns out that our car was not designed for sleeping in. The seats are angled like church pews and lacked any sort of adjustability. They defiantly weren’t designed for comfort. We both agreed to avoid doing that again.

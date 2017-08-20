@@ -1,0 +1,31 @@
+baseURL = "https://adventurefordementia.com"
+languageCode = "en-gb"
+title = "Adventure For Dementia"
+theme = "afd"
+disableKinds = ["RSS", "sitemap"]
+disableHugoGeneratorInject = true
+googleAnalytics = "UA-17537479-2"
+
+[params]
+metaDescription = "Follow James and Aaron as they travel 10,000 miles from Sussex to Mongolia"
+longTitle = "Adventure For Dementia - Mongol Rally 2015 Team"
+
+[outputs]
+home = [ "HTML", "REDIR", "HEADERS" ]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+suffix = ""
+delimiter = ""
+
+[outputFormats]
+[outputFormats.REDIR]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
