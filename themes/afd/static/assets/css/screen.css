@@ -59,7 +59,7 @@ a {
 }
 
 .hero {
-    background: url("../img/hero.jpg") top center / cover;
+    background: black url("../img/hero.jpg") top center / cover;
     height: 100%;
     display: flex;
     align-items: center;

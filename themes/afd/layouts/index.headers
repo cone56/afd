@@ -9,4 +9,4 @@
     Referrer-Policy: origin-when-cross-origin
 
 /assets/*
-    Cache-control: public, max-age=360000
+    Cache-control: public, max-age=604800
