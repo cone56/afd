@@ -1,8 +1,8 @@
 ---
-title: "Day -77 - Welcome to Adventure for Dementia"
+title: "Day -77: Welcome to Adventure for Dementia"
 date: 2015-03-05T16:46:00
----      
-      
+---
+
 On 19 July 2015 we’re going to set off from Goodwood Motor Circuit and drive 10,000 miles to Mongolia in a 2001 Ligier Ambra. A car so crap the French disowned it.
 
 It’s part of the Mongol Rally, an annual adventure where hundreds of teams try their darndest not to kill themselves on the way to Mongolia. We have no backup plan, no support, no real route, very little skill and frankly no idea how we’re going to do it. But we will!
@@ -18,7 +18,7 @@ Cool Earth works to halt rainforest destruction. They give local people the cont
 James, 25, is a web developer in East Sussex. Aaron, 24, is a VoIP engineer in Northampton. They met at university 6 years ago and have since travelled across Europe and South-East Asia - all preparing for the Adventure for Dementia.
 
 The car is a 505cc 2 cylinder automatic Ligier Ambra GLX. It cost £100 and had 2 previous owners - they’re both now dead. The GLX model has all the mod-cons, including wind up windows and a string-based boot opening mechanism. If you press the roof, it wobbles like jelly and to move the seats you have to unscrew them. The car has a top speed of 50mph and a blistering 0-62mph time of… never. If you want to listen to the radio, you can use the cassette deck or listen to French radio. We’re not sure how it even picks up French radio. That’s probably the most advanced feature in it.
-        
+
 {{< img src="/images/made/assets/uploads/engine_980_625_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.jpg" alt="Welcome to Adventure for Dementia" w="980" h="625" >}}
 
 We’re currently organising the paperwork, routes and gearing the car up with roof racks, spare tyres and doing everything we can to make sure it gets us there in one piece. The prognosis is still unclear.

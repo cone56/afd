@@ -1,8 +1,8 @@
 ---
-title: "Day 4 - The buda and the pest"
+title: "Day 4: The buda and the pest"
 date: 2015-07-23T20:52:00
 ---
-      
+
 {{< img src="/images/made/assets/uploads/day4_1_980_601_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.JPG" alt="The buda and the pest" w="980" h="601" >}}
 
 We arrived in Vienna and spent the afternoon sweating our bollocks off exploring the city in blistering heat whilst trying to conserve energy for next leg of the journey. While we were walking through Austria’s capital, we saw a horse taxi and started contemplating about upgrading our cart with something that few more horsepower. But we were told that horses don’t run on sans plom 95 so we scrapped that idea.

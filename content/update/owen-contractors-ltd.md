@@ -1,5 +1,5 @@
 ---
-title: "Day -23 - Owen Contractors Ltd"
+title: "Day -23: Owen Contractors Ltd"
 date: 2015-06-26T23:33:00
 ---
 

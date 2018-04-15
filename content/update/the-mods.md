@@ -1,8 +1,8 @@
 ---
-title: "Day -27 - The mods"
+title: "Day -27: The mods"
 date: 2015-06-22T11:15:00
 ---
-      
+
 After nursing the little smurf back to the Adventure before Dementia HQ, we realised that we needed to inject some serious fairy dust into the Ligier to ensure it would be capable of surviving the huge task required.
 
 At the workshop we increased the size of the carburetor jets, lightly ported the cylinder heads, side gapped the plugs, fitted a straight-through exhaust and installed a larger air filter. We’re sure these performance modifications will give us a better bang for our buck and significantly increase the number of unicorns in our little roller skate. Of course it’s also highly possible that it’ll do the complete opposite and make it much less reliable.

@@ -1,5 +1,5 @@
 ---
-title: "Day 10 - Exploring Istanbul"
+title: "Day 10: Exploring Istanbul"
 date: 2015-07-29T21:46:00
 draft: true
 ---

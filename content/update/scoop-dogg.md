@@ -1,5 +1,5 @@
 ---
-title: "Day 8 - Scoop Dogg"
+title: "Day 8: Scoop Dogg"
 date: 2015-07-27T21:46:00
 ---
 

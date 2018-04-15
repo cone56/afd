@@ -1,5 +1,5 @@
 ---
-title: "Day 6 - Pushing peaks"
+title: "Day 6: Pushing peaks"
 date: 2015-07-25T21:46:00
 ---
 
@@ -17,7 +17,7 @@ With a knackered starter motor, the only way we could start the Ligier would be 
 
 We continued our climb up Romania's Southern Carpathians mountains on the Transalpina pass which had now turned into a 10% incline. Crawling at 11mph, our clown cart was put under a huge amount of strain in trying to tackle the slope which is when Aaron came up with his genius plan. To give the Ligier the extra helping hand it needed, he decided to jump out to ditch weight to help push it up the hill. Microseconds after leaving the cabin he was on his arse using his head and elbow as a brake to stop him rolling down the hill and shouting out "don't stop; we'll lose momentum". It turns out you can't casually step out of a moving car and still expect to be standing afterwards. He was confused because it works in cartoons and how he imagined in his head. Luckily he escaped with only grazes and bruises.
 
-Traveling at such a slow speed can be boring at times which is one of the reasons we fitted the dixie horns back in the UK. There are probably many more reasons, but we can't remember what they are right now. Anyway, we decided to give them a proper exercise which the locals seemed to love as they cheered and waved at us while our rocket slug crawled past. 
+Traveling at such a slow speed can be boring at times which is one of the reasons we fitted the dixie horns back in the UK. There are probably many more reasons, but we can't remember what they are right now. Anyway, we decided to give them a proper exercise which the locals seemed to love as they cheered and waved at us while our rocket slug crawled past.
 
 Just as the incline of the range started to further increase we were reunited with the sight of Team OMJ as we came around a sharp bend. They had overheated. Again. We stopped to catch up and lend a hand. This was lucky for us because as soon we got out of our wagon we suddenly realised that we had a gaping hole in the radiator with coolant leaking out on the road. We then carried out more inspections and found huge chunks missing out of the rear tyres where they had been rubbing on the rear axle frame.
 

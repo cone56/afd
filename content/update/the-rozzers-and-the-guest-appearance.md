@@ -1,5 +1,5 @@
 ---
-title: "Day 1 - The rozzers and the guest appearance"
+title: "Day 1: The rozzers and the guest appearance"
 date: 2015-07-20T12:15:00
 ---
 

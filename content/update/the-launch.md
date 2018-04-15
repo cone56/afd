@@ -1,5 +1,5 @@
 ---
-title: "Day 0 - The launch"
+title: "Day 0: The launch"
 date: 2015-07-19T14:39:00
 ---
 
@@ -14,7 +14,7 @@ Taking it slow and steady, we arrived at Goodwood at around 7 AM. We were both f
 All we needed to do now was register, finish putting the stickers on the car and prepare ourselves for the blast around the track. We parked up in the paddock and loads of people started taking a shine to the Ligier and laughing at just how ridiculous it looked.
 
 {{< img src="/images/made/assets/uploads/the-launch_3_980_480_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.jpg" alt="The launch" w="980" h="480" >}}
-          
+
 We were in the second batch of cars to take on the challenge of the circuit. We found out that there was a minor fender bender in the first batch, so there was a short delay while we were waiting for the debris to be cleared up. Finally, it was our turn. Frantically accelerating off the start line, we eventually hit our top speed of 40mph on the second to last corner and overtook about 10 cars. Of course we were overtaken ourselves by at least 20 cars beforehand.
 
 {{< img src="/images/made/assets/uploads/the-launch_4_980_580_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.jpg" alt="The launch" w="980" h="580" >}}

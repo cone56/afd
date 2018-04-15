@@ -1,12 +1,12 @@
 ---
-title: "Day -5 - Thanksgiving"
+title: "Day -5: Thanksgiving"
 date: 2015-07-14T21:58:00
 ---
 
 We’re very grateful to a bunch of businesses who have supported us on our fundraising campaign and our additional quest to find out the true taste of fermented yak’s milk. Thanksgiving normally falls in late November in the US, but we’re keen to display our appreciation straightaway. Also, we’re English and don’t celebrate thanksgiving nor care about it
 
 {{< img src="/images/made/assets/uploads/thanksgiving_1_980_348_assetsimgwatermark.png_200_200_80_l_b_37_-10_int_s.png" alt="Thanksgiving" w="980" h="348" >}}
-  
+
 Based in Eastbourne, <a href="https://www.professionalinsuranceagents.co.uk/" title="Professional Insurance Agents" target="_blank">Professional Insurance Agents</a> offer a wide range commercial insurance services to business of all sizes. They’ve selflessly sponsored us £100 of fuel money which should help get us to dover. Thanks Graham!
 
 <a href="http://www.jewson.co.uk" title="Jewson" target="_blank">Jewson Ltd</a> in Bexhill gave us some glorious wood. At first we made lightsabers like children, but then we used the wood to mount the roof rack and add a roll cage. Some two by four should prevent the aluminum frame from buckling under high pressure, right?
@@ -16,7 +16,7 @@ Based in Eastbourne, <a href="https://www.professionalinsuranceagents.co.uk/" ti
 <a href="http://www.justseventyfives.co.uk/" title="Just Seventy Fives" target="_blank"> Just Seventy Fives</a> have been been helping us with final car preparations and helping to make sure it’s Mongol ready. Just Seventy Fives are a MG Rover tuning specialist based in Bexhill, East Sussex. As well as being a top mechanic, Sean has been giving us many helpful tips to increase our chances of survival and to prevent our likely deaths.
 
 {{< img src="/images/made/assets/uploads/thanksgiving_2_980_184_int_s.png" alt="Thanksgiving" w="980" h="184" >}}
-          
+
 Dave from <a href="https://plus.google.com/106035366644475288266" title="Dave's Tyres" target="_blank">Dave’s Tyres</a> in Bexhill have provided us with a set of discounted tyres which we’re thankful for. Apparently, the average number of punctures ralliers experience on the trip is 9. So four spares should be enough, right?
 
 Our hosting partner, <a href="http://www.firmswitch.co.uk/" title="Firmswitch" target="_blank">Firmswitch</a> have been providing us free hosting for this very website since our crazy idea came into fruition late last year. With amazing support and 100% uptime, they have been nothing but exceptional. Thanks Craig!

@@ -1,5 +1,5 @@
 ---
-title: "Day 3 - The barns and the scrutineering"
+title: "Day 3: The barns and the scrutineering"
 date: 2015-07-22T09:07:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Day -50 - The Route"
+title: "Day -50: The Route"
 date: 2015-05-30T19:04:00
 ---
 

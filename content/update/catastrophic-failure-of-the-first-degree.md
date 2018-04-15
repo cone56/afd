@@ -1,5 +1,5 @@
 ---
-title: "Day -15 - Catastrophic failure of the first degree"
+title: "Day -15: Catastrophic failure of the first degree"
 date: 2015-07-04T23:30:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Day 9 - The Tigra Crash"
+title: "Day 9: The Tigra Crash"
 date: 2015-07-28T21:46:00
 ---
 

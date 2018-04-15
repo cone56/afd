@@ -1,9 +1,9 @@
 ---
-title: "Day 7 - Crossing the Danube"
+title: "Day 7: Crossing the Danube"
 date: 2015-07-26T21:46:00
 ---
 
-Leaving the fleas behind, Team OMJ and Team Adventure for Dementia checked out of the hostel and began heading South via Bucharest for the Bulgarian border. A full day's drive was ahead of us. Aside from the odd hill or two at the start, after the Transalpina yesterday, the rest of Romania's roads were considerably flatter. We again split with Team OMJ who couldn't cope with the slow speeds were we moving at. Their Mini Moke would overheat if it went below 50 mph, so we agreed to rendezvous at the Bulgarian campsite we'd planned for the night. 
+Leaving the fleas behind, Team OMJ and Team Adventure for Dementia checked out of the hostel and began heading South via Bucharest for the Bulgarian border. A full day's drive was ahead of us. Aside from the odd hill or two at the start, after the Transalpina yesterday, the rest of Romania's roads were considerably flatter. We again split with Team OMJ who couldn't cope with the slow speeds were we moving at. Their Mini Moke would overheat if it went below 50 mph, so we agreed to rendezvous at the Bulgarian campsite we'd planned for the night.
 
 On the way to the capital, we passed a few village slums and continued to get interested looks from the local tribes who were probably trying to work out what our four wheeled plastic crate was. Eventually the poor quality roads turned into decent flat tarmac courtesy of the EU, we were told. Surprisingly, these were pretty much empty except from the odd gypsy with their horse and cart going down the wrong side of the road.
 
