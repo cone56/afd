@@ -4,30 +4,10 @@ window.onload = function(e) {
     return;
   }
   button.addEventListener('click', function (e) {
-    scrollTo(window.innerHeight, 600);
+    window.scrollTo({top: window.innerHeight, behavior: 'smooth'})
     e.preventDefault();
    });
 };
-
-Math.easeOutCubic = function(t, b, c, d) {
-  return c*((t=t/d-1)*t*t + 1) + b;
-}
-
-function scrollTo(to, duration) {
-  let start = document.documentElement.scrollTop;
-  let change = to - start;
-  let currentTime = 0;
-  let increment = 20;
-  let animateScroll = function() {
-    currentTime += increment;
-    let val = Math.easeOutCubic(currentTime, start, change, duration);
-    document.scrollingElement.scrollTop = val;
-    if (currentTime < duration) {
-      window.requestAnimationFrame(animateScroll);
-    }
-  };
-  animateScroll();
-}
 
 // Lazy image loading stuff
 /*! lazysizes - v2.0.0 */
