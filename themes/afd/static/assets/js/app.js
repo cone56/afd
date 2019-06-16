@@ -1,5 +1,5 @@
 window.onload = function(e) {
-  let button = document.querySelector('.js-follow');
+  var button = document.querySelector('.js-follow');
   if (!button) {
     return;
   }
