@@ -270,11 +270,6 @@ a.update__title:hover {
     background: #f7f7f7
 }
 
-.lazyloading {
-    background: #f7f7f7 url("../img/loading.svg") no-repeat center;
-}
-
-
 .skip {
     width: 100px;
     height: 100px;
