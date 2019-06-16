@@ -162,15 +162,14 @@ a {
 }
 
 .container {
-    width: 700px;
+    max-width: 980px;
     margin: 0 auto;
     padding-top: 50px
 }
 
 @media (max-width: 800px) {
     .container {
-        width: 100%;
-        padding: 0 25px;
+        padding-top: 25px;
     }
 }
 
@@ -188,6 +187,23 @@ a {
     }
 }
 
+.update p {
+    padding: 0 25px;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.update ul {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.update li {
+    margin-left: 1em;    
+}
+
 .update p a {
     color: #000;
     text-decoration: none;
@@ -195,12 +211,17 @@ a {
     padding-bottom: 2px;
 }
 
+.update__title_container {
+    padding: 0 25px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
 .update__title {
     text-decoration: none;
-    border-bottom: #000 1px solid;
-    padding-bottom: 25px;
-    margin-bottom: 25px;
     color: #000;
+    padding: 25px 0;
+    border-bottom: #000 1px solid;
 }
 
 a.update__title {
@@ -236,13 +257,11 @@ a.update__title:hover {
 }
 
 .update__image {
-    position: relative;
-    left: -140px;
+    max-width: 100%;
+    height: auto;
     margin-bottom: 25px;
     margin-top: 25px;
     border: 0;
-    min-width: 100%;
-    min-height: 100%;
     display: block;
     background: #f7f7f7
 }
@@ -251,14 +270,6 @@ a.update__title:hover {
     background: #f7f7f7 url("../img/loading.svg") no-repeat center;
 }
 
-@media (max-width: 800px) {
-    .update__image {
-        width: calc(100% + 50px);
-        height: auto;
-        left: -25px;
-        margin-right: -25px;
-    }
-}
 
 .skip {
     width: 100px;

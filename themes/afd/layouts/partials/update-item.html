@@ -1,15 +1,19 @@
 <article class="update">
     {{ if .Scratch.Get "IsSingle" }}
-    <div class="update__title">
-        <h2 class="update__title__text">{{ .Title }}</h2>
-        <time class="update__title__date" datetime='{{ .Date.Format "2006-01-02T15:04:05Z" }}'>
-            {{ .Date.Format "2 January 2006" }}
-        </time>
+    <div class="update__title_container">
+        <div class="update__title">
+            <h2 class="update__title__text">{{ .Title }}</h2>
+            <time class="update__title__date" datetime='{{ .Date.Format "2006-01-02T15:04:05Z" }}'>
+                {{ .Date.Format "2 January 2006" }}
+            </time>
+        </div>
     </div>
     {{ else }}
-    <a class="update__title update__title__link" href="{{.RelPermalink}}">
-        <h2 class="update__title__text">{{ .Title }}</h2>
-        <i class="update__title__icon fa fa-link"></i>
-    </a>
+    <div class="update__title_container">
+        <a class="update__title" href="{{.RelPermalink}}">
+            <h2 class="update__title__text">{{ .Title }}</h2>
+            <i class="update__title__icon fa fa-link"></i>
+        </a>
+    </div>
     {{ end }} {{ .Content }}
 </article>

@@ -7,7 +7,7 @@ The Mongol Rally is about the unexpected. The Adventurists talk about the un-rou
 
 Even though The Adventurists decide the start and finish points and let the teams choose their own course, traditionally, the rally has three different routes: the northern route, the central route and the southern route and the other southern route. Oh wait, that’s actually four routes.
 
-<iframe data-src="https://www.google.com/maps/d/embed?mid=zGpebCP8Wz1o.kk3Ja8YCumMM" width="980" height="625" class="lazyload update__image" style="min-height:300px;" title="The Route"></iframe>
+<iframe data-src="https://www.google.com/maps/d/embed?mid=zGpebCP8Wz1o.kk3Ja8YCumMM" width="980" height="625" class="lazyload update__image" style="height:600px;" title="The Route"></iframe>
 
 We’ve chosen the central route which will take us through Europe to Turkey, Georgia and Azerbaijan. We’ll then probably be waiting around at Baku for up to a week for a decommissioned military landing craft to take us across the Caspian sea. We should arrive at Aktau, Kazakhstan 3 days later. Whilst trying not to run out of fuel, food and most importantly beer, we’ll drive the length of Borat’s glorious nation, Kazakhstan, a country longer than Europe!
 
