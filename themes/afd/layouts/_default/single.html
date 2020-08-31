@@ -5,12 +5,12 @@
     </header>
     <div class="container">
         {{ .Scratch.Set "IsSingle" true }} {{ partial "update-item" . }} {{ if .NextInSection }}
-            <a href="{{ .NextInSection.Permalink }}" rel="next" class="skip skip--next" title="{{ .NextInSection.Title }}">
+            <a href="{{ .NextInSection.RelPermalink }}" rel="next" class="skip skip--next" title="{{ .NextInSection.Title }}">
                 {{ .NextInSection.Title }}
             </a>
         {{ end }}
         {{ if .PrevInSection }}
-            <a href="{{ .PrevInSection.Permalink }}" rel="prev" class="skip skip--prev" title="{{ .PrevInSection.Title }}">
+            <a href="{{ .PrevInSection.RelPermalink }}" rel="prev" class="skip skip--prev" title="{{ .PrevInSection.Title }}">
                 {{ .PrevInSection.Title }}
             </a>
         {{ end }}
