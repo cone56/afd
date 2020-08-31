@@ -11,6 +11,6 @@
     </div>
   </section>
   <div class="container" id="updates">
-    {{ range .Site.RegularPages.ByPublishDate.Reverse }} {{ .Scratch.Set "IsSingle" false }} {{ partial "update-item" . }} {{ end }}
+    {{ range .Site.RegularPages.ByPublishDate }} {{ .Scratch.Set "IsSingle" false }} {{ partial "update-item" . }} {{ end }}
   </div>
 {{ partial "footer" . }}
