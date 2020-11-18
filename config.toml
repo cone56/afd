@@ -9,24 +9,5 @@ disableHugoGeneratorInject = true
 metaDescription = "Follow James and Aaron as they travel 10,000 miles from Sussex to Mongolia"
 longTitle = "Adventure For Dementia - Mongol Rally 2015 Team"
 
-[outputs]
-home = [ "HTML", "REDIR", "HEADERS" ]
-
-[mediaTypes]
-[mediaTypes."text/netlify"]
-suffixes = [""]
-
-[outputFormats]
-[outputFormats.REDIR]
-mediatype = "text/netlify"
-baseName = "_redirects"
-isPlainText = true
-notAlternative = true
-[outputFormats.HEADERS]
-mediatype = "text/netlify"
-baseName = "_headers"
-isPlainText = true
-notAlternative = true
-
 [markup.goldmark.renderer]
 unsafe = true
