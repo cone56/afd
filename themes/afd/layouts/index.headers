@@ -1,7 +1,3 @@
-/
-    Link: <{{ "/assets/css/screen.css" | relURL }}>; rel=preload; as=style
-    Link: <{{ "/assets/img/hero.jpg" | relURL }}>; rel=preload; as=image
-
 /*
     X-Frame-Options: SAMEORIGIN
     X-XSS-Protection: 1; mode=block
