@@ -1,5 +1,7 @@
-/assets/*
+/assets/css/*
   Cache-control: public, max-age=604800
 
 /assets/fonts/*
+/images/*
+/assets/img/*
   Cache-control: public, max-age=31536000
